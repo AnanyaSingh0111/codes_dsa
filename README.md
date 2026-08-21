@@ -10,4 +10,28 @@
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2360-longest-cycle-in-a-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2360-longest-cycle-in-a-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2360-longest-cycle-in-a-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2360-longest-cycle-in-a-graph) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
