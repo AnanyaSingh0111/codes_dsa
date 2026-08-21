@@ -38,4 +38,12 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0058-length-of-last-word) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
