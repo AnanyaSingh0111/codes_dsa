@@ -34,4 +34,8 @@
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2360-longest-cycle-in-a-graph) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
