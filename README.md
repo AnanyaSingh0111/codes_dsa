@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0058-length-of-last-word) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Linked List
 |  |
 | ------- |
@@ -67,4 +68,16 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
+## Binary Search
+|  |
+| ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
+## Sliding Window
+|  |
+| ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
+## Prefix Sum
+|  |
+| ------- |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 <!---LeetCode Topics End-->
