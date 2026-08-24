@@ -7,6 +7,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1672-richest-customer-wealth) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -87,4 +88,5 @@
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1672-richest-customer-wealth](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
