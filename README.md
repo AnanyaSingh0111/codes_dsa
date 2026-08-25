@@ -7,6 +7,7 @@
 | ------- |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1672-richest-customer-wealth) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -17,11 +18,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2360-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2360-longest-cycle-in-a-graph) |
 ## Graph Theory
 |  |
@@ -76,6 +79,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 ## Sliding Window
 |  |
@@ -89,9 +93,22 @@
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3718-smallest-missing-multiple-of-k) |
+## Union-Find
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
