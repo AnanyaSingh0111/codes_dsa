@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1791-find-center-of-star-graph](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1791-find-center-of-star-graph) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2360-longest-cycle-in-a-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
