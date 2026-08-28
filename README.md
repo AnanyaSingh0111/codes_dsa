@@ -12,6 +12,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
 |  |
 | ------- |
@@ -34,6 +35,7 @@
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2360-longest-cycle-in-a-graph](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2360-longest-cycle-in-a-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Topological Sort
 |  |
 | ------- |
@@ -103,6 +105,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
 | ------- |
