@@ -11,6 +11,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1672-richest-customer-wealth) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+## Greedy
+|  |
+| ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
