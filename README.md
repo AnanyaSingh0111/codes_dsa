@@ -71,6 +71,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
 | ------- |
