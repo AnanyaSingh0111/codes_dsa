@@ -11,29 +11,31 @@
 class Solution {
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        vector<int>cp;
-        ListNode* temp=head;
-        int count=2;
-        while(temp && temp->next && temp->next->next){
-            ListNode* node=temp->next;
-            if(node->next){
-                if(temp->val<node->val && node->next->val<node->val){
-                cp.push_back(count);
-                }
-                if(temp->val>node->val && node->next->val>node->val){
-                    cp.push_back(count);
-                }
-            }
-            temp=temp->next;
-            count++;
-        }
-        if(cp.size()<2)
-        return {-1,-1};
+        int pos=1;
+        int first=-1;
+        int prev=-1;
         int minDist=INT_MAX;
-        for(int i=1;i<cp.size();i++){
-            minDist=min(minDist,cp[i]-cp[i-1]);
+        ListNode* temp=head;
+        while(temp && temp->next && temp->next->next){
+            int curr=pos+1;
+            if((temp->val<temp->next->val &&
+                 temp->next->val>temp->next->next->val)||
+                (temp->val>temp->next->val &&
+                 temp->next->val<temp->next->next->val)){
+                    if(first==-1){
+                        first=curr;
+                    }
+                    if(prev!=-1){
+                        minDist=min(minDist,curr-prev);
+                    }
+                    prev=curr;
+                 }
+            temp=temp->next;
+            pos++;
         }
-        int maxDist=cp.back()-cp.front();
+        if(first==-1||prev==first)
+        return {-1,-1};
+        int maxDist=prev-first;
         return {minDist,maxDist};
     }
 };
