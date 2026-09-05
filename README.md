@@ -21,6 +21,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | ------- |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
