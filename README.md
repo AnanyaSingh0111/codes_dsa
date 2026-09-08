@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0042-trapping-rain-water) |
+| [0119-pascals-triangle-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0119-pascals-triangle-ii) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0997-find-the-town-judge) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0042-trapping-rain-water) |
+| [0119-pascals-triangle-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0119-pascals-triangle-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
