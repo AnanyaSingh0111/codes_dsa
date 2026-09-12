@@ -7,6 +7,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0119-pascals-triangle-ii) |
+| [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0997-find-the-town-judge) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0058-length-of-last-word) |
+| [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3280-convert-date-to-binary](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3280-convert-date-to-binary) |
 ## Linked List
@@ -188,6 +190,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2578-split-with-minimum-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2578-split-with-minimum-sum) |
@@ -207,6 +210,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
 | [2578-split-with-minimum-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2578-split-with-minimum-sum) |
 | [3731-find-missing-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3731-find-missing-elements) |
 ## Enumeration
