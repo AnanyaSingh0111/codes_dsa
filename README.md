@@ -22,6 +22,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2594-minimum-time-to-repair-cars](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2594-minimum-time-to-repair-cars) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3483-unique-3-digit-even-numbers) |
