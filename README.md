@@ -44,6 +44,7 @@
 | [0743-network-delay-time](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
@@ -68,6 +69,7 @@
 | [0743-network-delay-time](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0997-find-the-town-judge) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -173,6 +175,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0997-find-the-town-judge) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3483-unique-3-digit-even-numbers) |
@@ -181,6 +184,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1584-min-cost-to-connect-all-points) |
@@ -281,4 +285,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0278-first-bad-version) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
