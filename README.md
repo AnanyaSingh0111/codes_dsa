@@ -10,6 +10,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
+| [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0997-find-the-town-judge) |
@@ -43,6 +44,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0841-keys-and-rooms) |
@@ -56,6 +58,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0841-keys-and-rooms) |
@@ -99,6 +102,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
+| [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3280-convert-date-to-binary](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3280-convert-date-to-binary) |
@@ -179,6 +183,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0997-find-the-town-judge) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1796-second-largest-digit-in-a-string) |
@@ -188,6 +193,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -239,6 +245,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
+| [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
