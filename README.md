@@ -137,6 +137,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0338-counting-bits) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -314,4 +315,5 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
