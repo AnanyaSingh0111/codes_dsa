@@ -112,6 +112,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1796-second-largest-digit-in-a-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3280-convert-date-to-binary](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3280-convert-date-to-binary) |
 ## Linked List
@@ -239,6 +240,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -248,6 +250,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0042-trapping-rain-water) |
 | [0344-reverse-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0344-reverse-string) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
 | ------- |
@@ -255,6 +258,7 @@
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -333,4 +337,5 @@
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 <!---LeetCode Topics End-->
