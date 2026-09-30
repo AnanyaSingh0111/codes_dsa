@@ -109,6 +109,7 @@
 | [0344-reverse-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0412-fizz-buzz) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -251,6 +253,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
 |  |
@@ -328,5 +331,6 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
