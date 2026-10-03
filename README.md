@@ -107,6 +107,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0344-reverse-string) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0042-trapping-rain-water) |
 | [0119-pascals-triangle-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0338-counting-bits) |
@@ -261,6 +263,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -344,6 +347,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
