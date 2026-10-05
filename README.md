@@ -111,6 +111,7 @@
 | [0058-length-of-last-word](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0412-fizz-buzz) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0856-score-of-parentheses) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0024-swap-nodes-in-pairs) |
+| [0394-decode-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -266,6 +268,7 @@
 | [0020-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
