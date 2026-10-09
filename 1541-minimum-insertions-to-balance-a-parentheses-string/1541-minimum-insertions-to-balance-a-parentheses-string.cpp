@@ -4,9 +4,8 @@ public:
         int ans=0;
         int open=0;
         for(int i=0;i<s.size();i++){
-            if(s[i]=='('){
-                open++;
-            }
+            if(s[i]=='(')
+            open++;
             else{
                 if(open==0){
                     ans++;
@@ -16,11 +15,12 @@ public:
                 if(i+1>0 && s[i+1]==')'){
                     i++;
                 }
-                else{
-                    ans++;
-                }
+                else
+                ans++;
             }
         }
-        return ans+=2*open;
+         ans+=2*open;
+        return ans;
+    
     }
 };
