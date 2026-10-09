@@ -140,6 +140,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0203-remove-linked-list-elements) |
 | [0394-decode-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0394-decode-string) |
+| [0894-all-possible-full-binary-trees](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0894-all-possible-full-binary-trees) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -167,6 +168,7 @@
 | [0338-counting-bits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0338-counting-bits) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
+| [0894-all-possible-full-binary-trees](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0894-all-possible-full-binary-trees) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Minimax
@@ -322,10 +324,12 @@
 ## Tree
 |  |
 | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0894-all-possible-full-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0894-all-possible-full-binary-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bellman–Ford Algorithm
 |  |
@@ -389,4 +393,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0894-all-possible-full-binary-trees](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0894-all-possible-full-binary-trees) |
 <!---LeetCode Topics End-->
