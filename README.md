@@ -46,6 +46,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3925-concatenate-array-with-reverse) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4010-maximize-pair-strength-using-gcd) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Simulation
 |  |
 | ------- |
@@ -214,6 +215,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3903-smallest-stable-index-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3904-smallest-stable-index-ii) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Matrix
 |  |
 | ------- |
@@ -377,6 +379,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0191-number-of-1-bits) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -406,4 +409,16 @@
 |  |
 | ------- |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4010-maximize-pair-strength-using-gcd) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Merge Sort
+|  |
+| ------- |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 <!---LeetCode Topics End-->
