@@ -45,6 +45,7 @@
 | [3903-smallest-stable-index-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3925-concatenate-array-with-reverse) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Simulation
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3876-construct-uniform-parity-array-ii) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -323,6 +325,7 @@
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3483-unique-3-digit-even-numbers) |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Tree
 |  |
 | ------- |
@@ -399,4 +402,8 @@
 |  |
 | ------- |
 | [0894-all-possible-full-binary-trees](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0894-all-possible-full-binary-trees) |
+## Number Theory
+|  |
+| ------- |
+| [4010-maximize-pair-strength-using-gcd](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4010-maximize-pair-strength-using-gcd) |
 <!---LeetCode Topics End-->
