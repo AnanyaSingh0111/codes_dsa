@@ -170,6 +170,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Dynamic Programming
 |  |
@@ -292,6 +293,7 @@
 | [2578-split-with-minimum-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2578-split-with-minimum-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3993-maximum-value-of-an-alternating-sequence](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 ## Two Pointers
 |  |
 | ------- |
