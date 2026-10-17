@@ -1,16 +1,16 @@
 class Solution {
 public:
     vector<int> toggleLightBulbs(vector<int>& bulbs) {
-        int n=bulbs.size();
-        set<int>st;
-        for(int i=0;i<n;i++){
-            if(st.count(bulbs[i])){
-                st.erase(bulbs[i]);
-            }
-            else
-            st.insert(bulbs[i]);
+        vector<bool>on(101, false);
+        for (int bulb:bulbs){
+            on[bulb]=!on[bulb];
         }
-        vector<int>ans(st.begin(),st.end());
+        vector<int>ans;
+        for (int i = 0; i < on.size(); i++) {
+            if(on[i]){
+                ans.push_back(i);
+            }
+        }
         return ans;
     }
 };
