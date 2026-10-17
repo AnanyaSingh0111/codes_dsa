@@ -44,6 +44,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3842-toggle-light-bulbs) |
+| [3843-first-element-with-unique-frequency](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -252,6 +253,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3842-toggle-light-bulbs) |
+| [3843-first-element-with-unique-frequency](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3843-first-element-with-unique-frequency) |
 ## Union-Find
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3843-first-element-with-unique-frequency](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3843-first-element-with-unique-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3848-check-digitorial-permutation) |
 ## Minimum Spanning Tree
 |  |
