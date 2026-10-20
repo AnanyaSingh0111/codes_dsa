@@ -53,6 +53,7 @@
 | [3903-smallest-stable-index-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3925-concatenate-array-with-reverse) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3940-limit-occurrences-in-sorted-array) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Simulation
@@ -314,6 +315,7 @@
 | [0344-reverse-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Stack
 |  |
 | ------- |
