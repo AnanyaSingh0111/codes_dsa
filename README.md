@@ -12,6 +12,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -242,6 +243,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0888-fair-candy-swap](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0888-fair-candy-swap) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -267,6 +269,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -291,6 +294,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
+| [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -334,6 +338,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0888-fair-candy-swap](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0888-fair-candy-swap) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -373,6 +378,7 @@
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3843-first-element-with-unique-frequency](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3843-first-element-with-unique-frequency) |
