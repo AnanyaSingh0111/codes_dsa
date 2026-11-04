@@ -138,6 +138,7 @@
 | [0344-reverse-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0412-fizz-buzz) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
