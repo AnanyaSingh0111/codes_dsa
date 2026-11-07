@@ -63,6 +63,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4010-maximize-pair-strength-using-gcd) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Simulation
@@ -326,6 +327,7 @@
 | [2578-split-with-minimum-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2578-split-with-minimum-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 ## Two Pointers
 |  |
@@ -383,6 +385,7 @@
 | [3731-find-missing-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3842-toggle-light-bulbs) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Enumeration
 |  |
 | ------- |
