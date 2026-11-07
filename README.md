@@ -31,6 +31,7 @@
 | [1584-min-cost-to-connect-all-points](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1672-richest-customer-wealth) |
+| [1882-process-tasks-using-servers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1882-process-tasks-using-servers) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -295,6 +296,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
+| [1882-process-tasks-using-servers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1882-process-tasks-using-servers) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
