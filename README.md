@@ -24,6 +24,7 @@
 | [0888-fair-candy-swap](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0888-fair-candy-swap) |
 | [0997-find-the-town-judge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0997-find-the-town-judge) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -83,6 +84,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0841-keys-and-rooms) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1267-count-servers-that-communicate](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
@@ -97,6 +99,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0841-keys-and-rooms) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
@@ -253,6 +256,7 @@
 |  |
 | ------- |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
@@ -283,6 +287,7 @@
 | ------- |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1267-count-servers-that-communicate](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1267-count-servers-that-communicate) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1584-min-cost-to-connect-all-points) |
@@ -415,6 +420,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
+| [1267-count-servers-that-communicate](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1267-count-servers-that-communicate) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
