@@ -141,6 +141,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0058-length-of-last-word) |
@@ -342,6 +343,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0344-reverse-string) |
@@ -503,4 +505,20 @@
 |  |
 | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
