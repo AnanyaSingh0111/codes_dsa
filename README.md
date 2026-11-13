@@ -165,6 +165,7 @@
 | [3280-convert-date-to-binary](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3280-convert-date-to-binary) |
 | [3856-trim-trailing-vowels](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3931-check-adjacent-digit-differences) |
+| [3941-password-strength](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3941-password-strength) |
 ## Linked List
 |  |
 | ------- |
@@ -290,6 +291,7 @@
 | [3731-find-missing-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3843-first-element-with-unique-frequency) |
+| [3941-password-strength](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3941-password-strength) |
 ## Union-Find
 |  |
 | ------- |
