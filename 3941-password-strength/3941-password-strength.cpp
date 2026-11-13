@@ -1,9 +1,12 @@
 class Solution {
 public:
     int passwordStrength(string password) {
-        set<char>st(password.begin(),password.end());
+        unordered_set<char>seen;
         int ans=0;
-        for(char c:st){
+        for(char c:password){
+            if(seen.count(c))
+            continue;
+            seen.insert(c);
             if(c>='a' && c<='z'){
                 ans+=1;
             }
