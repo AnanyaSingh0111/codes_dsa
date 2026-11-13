@@ -164,6 +164,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3280-convert-date-to-binary](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3280-convert-date-to-binary) |
 | [3856-trim-trailing-vowels](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3856-trim-trailing-vowels) |
+| [3931-check-adjacent-digit-differences](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3931-check-adjacent-digit-differences) |
 ## Linked List
 |  |
 | ------- |
