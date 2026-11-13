@@ -197,6 +197,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3848-check-digitorial-permutation](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3848-check-digitorial-permutation) |
 | [3870-count-commas-in-range](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3871-count-commas-in-range-ii) |
@@ -342,6 +343,7 @@
 | [2578-split-with-minimum-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2578-split-with-minimum-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3993-maximum-value-of-an-alternating-sequence](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3993-maximum-value-of-an-alternating-sequence) |
 ## Two Pointers
