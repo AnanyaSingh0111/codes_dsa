@@ -61,6 +61,7 @@
 | [3842-toggle-light-bulbs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3847-find-the-score-difference-in-a-game) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -295,6 +296,7 @@
 | [3731-find-missing-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3731-find-missing-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3843-first-element-with-unique-frequency) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3852-smallest-pair-with-different-frequencies) |
 | [3941-password-strength](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3941-password-strength) |
 ## Union-Find
 |  |
@@ -445,6 +447,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3843-first-element-with-unique-frequency](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3843-first-element-with-unique-frequency) |
 | [3848-check-digitorial-permutation](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3848-check-digitorial-permutation) |
+| [3852-smallest-pair-with-different-frequencies](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3852-smallest-pair-with-different-frequencies) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
