@@ -77,6 +77,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3842-toggle-light-bulbs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -164,6 +165,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3280-convert-date-to-binary) |
 | [3856-trim-trailing-vowels](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3931-check-adjacent-digit-differences) |
