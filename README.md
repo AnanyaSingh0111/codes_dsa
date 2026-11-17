@@ -79,6 +79,7 @@
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3842-toggle-light-bulbs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3925-concatenate-array-with-reverse) |
@@ -167,6 +168,7 @@
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3280-convert-date-to-binary](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3280-convert-date-to-binary) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3856-trim-trailing-vowels](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3856-trim-trailing-vowels) |
 | [3931-check-adjacent-digit-differences](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3941-password-strength) |
@@ -365,6 +367,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Stack
 |  |
