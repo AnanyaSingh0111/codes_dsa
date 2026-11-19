@@ -31,6 +31,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1584-min-cost-to-connect-all-points](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
@@ -356,6 +357,7 @@
 | [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -422,6 +424,7 @@
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
