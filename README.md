@@ -165,6 +165,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -353,6 +354,7 @@
 | [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
 | [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -460,6 +462,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1267-count-servers-that-communicate](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1267-count-servers-that-communicate) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
