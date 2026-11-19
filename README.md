@@ -232,6 +232,7 @@
 | [0894-all-possible-full-binary-trees](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0894-all-possible-full-binary-trees) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Minimax
 |  |
 | ------- |
@@ -361,6 +362,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2578-split-with-minimum-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2578-split-with-minimum-sum) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -505,6 +507,7 @@
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0338-counting-bits) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Bracket Sequences
 |  |
 | ------- |
