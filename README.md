@@ -13,6 +13,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0179-largest-number) |
+| [0287-find-the-duplicate-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -255,6 +256,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0888-fair-candy-swap) |
@@ -381,6 +383,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -514,6 +517,7 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0338-counting-bits) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 ## Bracket Sequences
@@ -574,4 +578,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
