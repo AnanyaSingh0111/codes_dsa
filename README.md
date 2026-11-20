@@ -48,6 +48,7 @@
 | [2747-count-zero-request-servers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -234,6 +235,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Minimax
 |  |
 | ------- |
@@ -430,6 +432,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2578-split-with-minimum-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2578-split-with-minimum-sum) |
 | [2747-count-zero-request-servers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3731-find-missing-elements) |
