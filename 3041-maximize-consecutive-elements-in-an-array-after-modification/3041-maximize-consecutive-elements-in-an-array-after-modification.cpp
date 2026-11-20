@@ -7,11 +7,9 @@ public:
         int ans = 0;
 
         for (int x : nums) {
-            dp[x + 1] = dp[x] + 1;
-            ans = max(ans, dp[x + 1]);
-
-            dp[x] = max(dp[x], dp[x - 1] + 1);
-            ans = max(ans, dp[x]);
+           dp[x+1]=dp[x]+1;
+           dp[x]=dp[x-1]+1;
+           ans=max(ans,max(dp[x+1],dp[x]));
         }
 
         return ans;
