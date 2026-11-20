@@ -49,6 +49,7 @@
 | [2747-count-zero-request-servers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2951-find-the-peaks](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2951-find-the-peaks) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -449,6 +450,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4010-maximize-pair-strength-using-gcd) |
