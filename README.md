@@ -162,6 +162,7 @@
 | [0412-fizz-buzz](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0443-string-compression) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0696-count-binary-substrings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -384,6 +385,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0443-string-compression) |
+| [0696-count-binary-substrings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0696-count-binary-substrings) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
