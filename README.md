@@ -31,6 +31,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1267-count-servers-that-communicate) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -216,6 +217,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2578-split-with-minimum-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2578-split-with-minimum-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -291,6 +293,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3903-smallest-stable-index-i) |
@@ -611,4 +614,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
