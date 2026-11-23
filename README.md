@@ -174,6 +174,7 @@
 | [0647-palindromic-substrings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
+| [0726-number-of-atoms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0726-number-of-atoms) |
 | [0856-score-of-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -321,6 +322,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
+| [0726-number-of-atoms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0726-number-of-atoms) |
 | [0888-fair-candy-swap](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0888-fair-candy-swap) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0997-find-the-town-judge) |
@@ -426,6 +428,7 @@
 | [0496-next-greater-element-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
+| [0726-number-of-atoms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0726-number-of-atoms) |
 | [0856-score-of-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -452,6 +455,7 @@
 | [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
+| [0726-number-of-atoms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0726-number-of-atoms) |
 | [0888-fair-candy-swap](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0888-fair-candy-swap) |
 | [1200-minimum-absolute-difference](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
