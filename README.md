@@ -25,6 +25,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
+| [0739-daily-temperatures](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0888-fair-candy-swap) |
@@ -431,6 +432,7 @@
 | [0503-next-greater-element-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0726-number-of-atoms) |
+| [0739-daily-temperatures](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -445,6 +447,7 @@
 | [0042-trapping-rain-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0739-daily-temperatures) |
 ## Sorting
 |  |
 | ------- |
