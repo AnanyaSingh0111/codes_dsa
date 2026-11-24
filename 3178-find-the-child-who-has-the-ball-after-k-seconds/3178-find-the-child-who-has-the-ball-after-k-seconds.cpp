@@ -1,9 +1,13 @@
 class Solution {
 public:
     int numberOfChild(int n, int k) {
-        int x=k%(2*(n-1));
-        if(x<=n-1)
-        return x;
-        return 2*(n-1)-x;
+        int pos=0;
+        int direc=1;
+        for(int i=0;i<k;i++){
+            pos+=direc;
+            if(pos==n-1 || pos==0)
+            direc*=-1;
+        }
+        return pos;
     }
 };
