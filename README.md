@@ -45,6 +45,7 @@
 | [1672-richest-customer-wealth](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1672-richest-customer-wealth) |
 | [1882-process-tasks-using-servers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1882-process-tasks-using-servers) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -224,6 +225,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1352-product-of-the-last-k-numbers) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2578-split-with-minimum-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2578-split-with-minimum-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -585,6 +587,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Binary Indexed Tree
@@ -641,4 +644,12 @@
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1352-product-of-the-last-k-numbers) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
