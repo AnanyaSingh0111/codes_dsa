@@ -96,6 +96,7 @@
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3842-toggle-light-bulbs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -229,6 +230,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2578-split-with-minimum-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2578-split-with-minimum-sum) |
+| [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3280-convert-date-to-binary](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3280-convert-date-to-binary) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3345-smallest-divisible-digit-product-i) |
