@@ -25,6 +25,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
@@ -311,6 +312,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0724-find-pivot-index) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3364-minimum-positive-sum-subarray) |
