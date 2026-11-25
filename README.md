@@ -94,6 +94,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0844-backspace-string-compare) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2582-pass-the-pillow](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2582-pass-the-pillow) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -181,6 +182,7 @@
 | [0696-count-binary-substrings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0696-count-binary-substrings) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0726-number-of-atoms) |
+| [0844-backspace-string-compare](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1021-remove-outermost-parentheses) |
@@ -427,6 +429,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0844-backspace-string-compare) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -443,6 +446,7 @@
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
 | [0726-number-of-atoms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1021-remove-outermost-parentheses) |
