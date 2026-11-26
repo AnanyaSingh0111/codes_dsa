@@ -168,6 +168,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -227,6 +228,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0012-integer-to-roman) |
 | [0412-fizz-buzz](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -335,6 +337,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0169-majority-element) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
