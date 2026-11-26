@@ -24,6 +24,7 @@
 | [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
+| [0697-degree-of-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0739-daily-temperatures) |
@@ -340,6 +341,7 @@
 | [0496-next-greater-element-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0621-task-scheduler) |
+| [0697-degree-of-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0697-degree-of-an-array) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0726-number-of-atoms) |
 | [0888-fair-candy-swap](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0888-fair-candy-swap) |
