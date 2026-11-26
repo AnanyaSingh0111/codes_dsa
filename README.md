@@ -25,6 +25,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0682-baseball-game) |
 | [0697-degree-of-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0697-degree-of-an-array) |
+| [0713-subarray-product-less-than-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0739-daily-temperatures) |
@@ -296,6 +297,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0713-subarray-product-less-than-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0888-fair-candy-swap](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0888-fair-candy-swap) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -311,6 +313,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2747-count-zero-request-servers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2747-count-zero-request-servers) |
@@ -319,6 +322,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0724-find-pivot-index) |
 | [1352-product-of-the-last-k-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1352-product-of-the-last-k-numbers) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2024-maximize-the-confusion-of-an-exam) |
