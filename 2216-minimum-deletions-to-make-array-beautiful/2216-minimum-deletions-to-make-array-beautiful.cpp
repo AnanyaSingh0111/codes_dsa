@@ -1,24 +1,20 @@
 class Solution {
 public:
     int minDeletion(vector<int>& nums) {
-        stack<pair<int,int>>st;
         int n=nums.size();
+        int ans=0;
         int count=0;
         for(int i=0;i<n;i++){
-            if(st.empty()){
-            st.push({nums[i],0});
-            count++;
+            if(count%2==0){
+                if(i<n-1 && nums[i]==nums[i+1]){
+                    ans++;
+                    continue;
+                }
             }
-           else if(st.top().first==nums[i] && st.top().second%2==0)
-            continue;
-            else{
-            st.push({nums[i],count});
             count++;
-            }
         }
-        if(st.size()%2==0)
-        return n-st.size();
-        else
-        return n-st.size()+1;
+        if(count%2!=0)
+        ans++;
+        return ans;
     }
 };
