@@ -231,6 +231,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0012-integer-to-roman) |
+| [0202-happy-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -346,6 +347,7 @@
 | [0012-integer-to-roman](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -436,6 +438,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0345-reverse-vowels-of-a-string) |
@@ -656,6 +659,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0287-find-the-duplicate-number) |
 ## Manacher
 |  |
