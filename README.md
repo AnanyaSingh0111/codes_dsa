@@ -56,6 +56,7 @@
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2210-count-hills-and-valleys-in-an-array) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -430,6 +431,7 @@
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2578-split-with-minimum-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2578-split-with-minimum-sum) |
@@ -483,6 +485,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 ## Monotonic Stack
 |  |
 | ------- |
