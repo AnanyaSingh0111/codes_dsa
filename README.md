@@ -82,6 +82,7 @@
 | [3731-find-missing-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3731-find-missing-elements) |
 | [3769-sort-integers-by-binary-reflection](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3769-sort-integers-by-binary-reflection) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3847-find-the-score-difference-in-a-game) |
@@ -377,6 +378,7 @@
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3731-find-missing-elements) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3842-toggle-light-bulbs](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3842-toggle-light-bulbs) |
 | [3843-first-element-with-unique-frequency](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3843-first-element-with-unique-frequency) |
 | [3852-smallest-pair-with-different-frequencies](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3852-smallest-pair-with-different-frequencies) |
