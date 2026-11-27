@@ -33,6 +33,7 @@
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0888-fair-candy-swap) |
 | [0997-find-the-town-judge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0997-find-the-town-judge) |
+| [1048-longest-string-chain](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1200-minimum-absolute-difference) |
 | [1267-count-servers-that-communicate](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1267-count-servers-that-communicate) |
@@ -193,6 +194,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1048-longest-string-chain](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1048-longest-string-chain) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -273,6 +275,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0894-all-possible-full-binary-trees) |
+| [1048-longest-string-chain](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1048-longest-string-chain) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
@@ -358,6 +361,7 @@
 | [0888-fair-candy-swap](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0888-fair-candy-swap) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0997-find-the-town-judge) |
+| [1048-longest-string-chain](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1048-longest-string-chain) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1796-second-largest-digit-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1796-second-largest-digit-in-a-string) |
@@ -448,6 +452,7 @@
 | [0647-palindromic-substrings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0696-count-binary-substrings) |
 | [0844-backspace-string-compare](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0844-backspace-string-compare) |
+| [1048-longest-string-chain](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -495,6 +500,7 @@
 | [0721-accounts-merge](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0721-accounts-merge) |
 | [0726-number-of-atoms](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0726-number-of-atoms) |
 | [0888-fair-candy-swap](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0888-fair-candy-swap) |
+| [1048-longest-string-chain](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1048-longest-string-chain) |
 | [1200-minimum-absolute-difference](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1200-minimum-absolute-difference) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1385-find-the-distance-value-between-two-arrays) |
