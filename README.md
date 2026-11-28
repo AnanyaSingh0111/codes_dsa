@@ -72,6 +72,7 @@
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -375,6 +376,7 @@
 | [1796-second-largest-digit-in-a-string](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1796-second-largest-digit-in-a-string) |
 | [2747-count-zero-request-servers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
