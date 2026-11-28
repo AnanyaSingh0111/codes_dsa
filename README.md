@@ -61,6 +61,7 @@
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2594-minimum-time-to-repair-cars](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2594-minimum-time-to-repair-cars) |
 | [2747-count-zero-request-servers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -526,6 +527,7 @@
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2578-split-with-minimum-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2578-split-with-minimum-sum) |
+| [2580-count-ways-to-group-overlapping-ranges](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2580-count-ways-to-group-overlapping-ranges) |
 | [2747-count-zero-request-servers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
