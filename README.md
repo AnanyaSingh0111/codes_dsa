@@ -64,6 +64,7 @@
 | [2594-minimum-time-to-repair-cars](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2594-minimum-time-to-repair-cars) |
 | [2747-count-zero-request-servers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2951-find-the-peaks) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -612,6 +613,7 @@
 | [0287-find-the-duplicate-number](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/0338-counting-bits) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 ## Bracket Sequences
 |  |
 | ------- |
