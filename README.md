@@ -75,6 +75,7 @@
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3364-minimum-positive-sum-subarray](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3364-minimum-positive-sum-subarray) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -351,6 +352,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/1672-richest-customer-wealth) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -444,6 +446,7 @@
 | [2567-minimum-score-by-changing-two-elements](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2578-split-with-minimum-sum](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/2578-split-with-minimum-sum) |
+| [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/AnanyaSingh0111/codes_dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
